@@ -4,7 +4,7 @@
 🏫 DAV Institute of Engineering & Technology, Jalandhar  
 💻 Backend Developer | Python • Flask • Django  
 📊 Machine Learning Enthusiast  
-🎯 Aspiring Software Engineer (Product-Based Companies)
+🎯 Aspiring Software Engineer 
 
 ---
 
