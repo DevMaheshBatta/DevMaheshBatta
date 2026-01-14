@@ -70,7 +70,8 @@ I am a Computer Science undergraduate with strong fundamentals in backend develo
 - Implemented search, category filtering, and real-time inventory tracking  
 - Improved product discovery speed by **40%** and user engagement by **25%**  
 - Built role-based admin panel, reducing admin effort by **50%**  
-- Achieved **90+ Google Lighthouse performance score**  
+- Achieved **90+ Google Lighthouse performance score**
+- https://github.com/DevMaheshBatta/ecommerce_webapp
 
 ---
 
